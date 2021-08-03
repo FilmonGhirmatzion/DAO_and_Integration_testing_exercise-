@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m02d07-dao-exercises-pair" />
+        <module name="m02d08-integration-testing-lecture-final" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="m02d07-dao-exercises-pair" target="11" />
+      <module name="m02d07-dao-lecture-final" target="11" />
+      <module name="m02d08-integration-testing-lecture-final" target="11" />
+      <module name="m1-java-capstone-catering-system" target="11" />
+      <module name="m2-capstone-excelsior-venues" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
